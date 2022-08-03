@@ -16,4 +16,3 @@ class TestModule2(unittest.TestCase):
 
 
 unittest.main()     
-
